@@ -2,7 +2,7 @@ require 'formula'
 
 class Ssldump < Formula
   homepage 'http://www.rtfm.com/ssldump/'
-  url 'http://www.rtfm.com/ssldump/ssldump-0.9b3.tar.gz'
+  url 'https://github.com/fabianbraach/homebrew-ssldump/raw/master/ssldump-0.9b3.tar'
 
   depends_on 'openssl'
 
